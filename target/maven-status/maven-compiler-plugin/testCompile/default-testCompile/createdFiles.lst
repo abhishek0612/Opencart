@@ -1,0 +1,7 @@
+CheckingElement.class
+colorOfElement.class
+testCases\TC001_AccountRegistrationTest.class
+pageObjects\BasePage.class
+pageObjects\HomePage.class
+testBase\BaseClass.class
+pageObjects\RegistrationPage.class
